@@ -1,0 +1,16 @@
+.book-author {
+  color: darkgray;
+}
+.book-summary {
+  color: grey;
+}
+.book-title {
+  color: cadetblue;
+}
+
+#author {
+  color: blueviolet;
+}
+.link-item:hover {
+  color: cadetblue;
+}
